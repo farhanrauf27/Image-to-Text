@@ -29,9 +29,6 @@ Easily **upload, drag & drop, or paste images** to extract text instantly — wi
 
 ---
 
-## 🖥️ Preview
-
-![App Screenshot](https://via.placeholder.com/1000x500?text=Image+to+Text+App+Preview)
 
 ---
 
@@ -43,3 +40,20 @@ Follow these steps to run the project locally:
 ```bash
 git clone https://github.com/your-username/image-to-text-converter.git
 cd image-to-text-converter
+
+---
+
+## 📜 License
+
+This project is licensed under the **MIT License** — free to use, modify, and share.
+
+---
+
+## 💡 Author
+
+**👨‍💻 Muhammad Farhan**  
+🌐 [LinkedIn Profile](https://www.linkedin.com/in/muhammad-farhan-992245271/)
+
+> “Turning images into meaningful text — effortlessly and beautifully.”
+
+---
