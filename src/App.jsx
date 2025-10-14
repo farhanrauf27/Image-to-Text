@@ -1,6 +1,7 @@
 import React, { useState, useEffect, useRef } from "react";
 import Tesseract from "tesseract.js";
 
+
 export default function ImageToText() {
   const [image, setImage] = useState(null);
   const [text, setText] = useState("");
